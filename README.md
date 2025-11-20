@@ -82,6 +82,4 @@ Este es un proyecto construído por Alejandro Chavarro, Santiago Pinto y Ricardo
 
 
 
-```bash
-streamlit run var_fin.py
-```
+
