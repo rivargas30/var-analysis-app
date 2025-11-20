@@ -40,7 +40,7 @@ El proyecto está construido con el siguiente stack tecnológico:
 
 ## Uso
 
-El proyecto es reproducible desde ![Stremalit VaR](https://var-analysis-46.streamlit.app/)
+El proyecto es reproducible desde [Aplicativo Stremalit VaR](https://var-analysis-46.streamlit.app/)
 
 ## Metodologías Detalladas1. 
 
